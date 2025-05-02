@@ -1,1 +1,1 @@
-This repository is a copy of the repository found at the following link : https://github.com/Faris-ma/ThymioBG51. This project was done by Jad Benabdelkader, Zhefei Gong, Nils Antonovitch and Matteo Fiore under the supervision of Prof. Francesco Mondada
+This repository is a copy of the repository found at the following link : https://github.com/Faris-ma/ThymioBG51. This project was done by Jad Benabdelkader, Zhefei Gong, Nils Antonovitch and Matteo Fiore under the supervision of Prof. Francesco Mondada of the EPFL MOBOTS Lab
